@@ -11,6 +11,6 @@ int main()
     cout << "Ingrese su nombre por favor" << endl;
     cin >> nombre;
     cout << "Ejemplo de uso de cadena (string)" << endl;
-         << nombre << endl;
+            << nombre << endl;
     return 0;
 }
